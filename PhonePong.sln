@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonePong", "PhonePong\PhonePong\PhonePong.csproj", "{703663E0-5980-4819-A408-DC8C40E23EE3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PhonePongContent", "PhonePong\PhonePongContent\PhonePongContent.contentproj", "{CB25B3D8-A488-4EAE-9338-A98FC9577D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Any CPU = Release|Any CPU
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Debug|Any CPU.ActiveCfg = Debug|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Release|Any CPU.ActiveCfg = Release|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{703663E0-5980-4819-A408-DC8C40E23EE3}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{CB25B3D8-A488-4EAE-9338-A98FC9577D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB25B3D8-A488-4EAE-9338-A98FC9577D09}.Debug|Windows Phone.ActiveCfg = Debug|Any CPU
+		{CB25B3D8-A488-4EAE-9338-A98FC9577D09}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB25B3D8-A488-4EAE-9338-A98FC9577D09}.Release|Windows Phone.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
